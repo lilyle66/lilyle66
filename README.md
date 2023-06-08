@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @lilyle66
-- Nice to see you ✨✨
+- 👋 Hi
 
 <!---
 lilyle66/lilyle66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
