@@ -1,4 +1,4 @@
-- học xinh chuyên cần
+- nothing
 
 <!---
 lilyle66/lilyle66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
